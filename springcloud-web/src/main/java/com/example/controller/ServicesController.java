@@ -1,7 +1,7 @@
 package com.example.controller;
 
-import com.javalab.springcloud.registry.ServiceInstanceMapper;
-import com.javalab.springcloud.registry.ServiceRegistry;
+import com.example.springcloud.registry.ServiceInstanceMapper;
+import com.example.springcloud.registry.ServiceRegistry;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
