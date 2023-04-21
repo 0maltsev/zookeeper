@@ -1,0 +1,4 @@
+rootProject.name = 'demo'
+include 'springcloud-discovery'
+include 'springcloud-web'
+
